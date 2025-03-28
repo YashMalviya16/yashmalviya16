@@ -19,7 +19,7 @@
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Generative+AI;Synthetic+Data;Data+Visualization;AI+Governance;MLOps;LLM+Tooling" />
       <br>
       👯 Collaborating On:
-    <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Generative+AI;Synthetic+Data;Data+Visualization;AI+Governance;MLOps;LLM+Tooling" />
+    <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Research+Papers;AI+Deployments;Cloud+Apps;ML+Pipelines;Full+Stack+AI+Developments" />
       <br>
       💬 Ask me about:
     <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Generative+AI;Synthetic+Data;Data+Visualization;AI+Governance;MLOps;LLM+Tooling" />
