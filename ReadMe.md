@@ -1,7 +1,7 @@
 
 <!-- Made By Yash Malviya -->
 <div align="center">
-   <img width=100% src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
+   <img width=50% src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
 </div>
 <div align=center>
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
